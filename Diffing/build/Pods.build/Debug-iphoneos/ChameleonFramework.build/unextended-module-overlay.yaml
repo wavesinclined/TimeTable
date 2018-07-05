@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/Elsewhere/Dropbox/All_Repos/AliceIOS/Apps/Diffing/build/Debug-iphoneos/ChameleonFramework/ChameleonFramework.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/Elsewhere/Dropbox/All_Repos/AliceIOS/Apps/Diffing/build/Pods.build/Debug-iphoneos/ChameleonFramework.build/unextended-module.modulemap',
+    }]
+  }]
+}
